@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Adam.
+- 👀 I’m interested in programming and technology 
+- 🌱 I’m currently learning HTML, CSS, JS
+- 📫 Collaborate e-mail: a.michalik2412@gmail.com
